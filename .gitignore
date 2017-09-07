@@ -1,0 +1,4 @@
+tests/
+*.egg-info
+*.pyc
+.tox
